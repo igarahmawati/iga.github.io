@@ -1,14 +1,22 @@
 ---
 layout: default
-title: Home
+title: Welcome
 ---
 
-# Welcome to My Portfolio
+# Hi, I'm Iga Rahmawati 👋  
 
-I'm **Iga**, a Data Professional blending expertise in predictive analytics, business intelligence, and strategic data initiatives.
+I'm a Data Professional blending expertise in predictive analytics, business intelligence, and strategic data initiatives.
 
-🔹 5+ years of experience in data analytics  
-🔹 Expertise in SQL, Data visualisation, Python
-🔹 Passion for solving complex data problems
+🚀 4+ years of experience in data analytics  
+📊 Skilled in SQL, Python, Tableau, and data modeling  
+🔍 Passionate about solving complex business problems with data  
 
-Check out my [Projects](projects.md) or [About Me](about.md)!
+## 🔥 Featured Projects  
+- [Fraud Detection System](projects/fraud-detection.md)  
+- [Customer Segmentation](projects/customer-segmentation.md)  
+- [Risk Analysis Dashboard](projects/risk-dashboard.md)  
+
+[Check out my full projects here](projects.md) 🚀  
+
+## 📬 Let's Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/iga-rahmawati)
