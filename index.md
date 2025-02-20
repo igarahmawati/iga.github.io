@@ -2,15 +2,14 @@
 layout: default
 title: Welcome
 ---
-#
-#
-# Hi, I'm Iga Rahmawati 👋  
+# Data Professional
 
-I'm a Data Professional blending expertise in predictive analytics, business intelligence, and strategic data initiatives.
+I'm a Versatile data professional blending expertise in predictive analytics, business intelligence, and strategic data initiatives.
 
 🚀 4+ years of experience in data analytics  
-📊 Skilled in SQL, Python, Tableau, and data modeling  
-🔍 Passionate about solving complex business problems with data  
+📊 Skilled in Spreadsheet, SQL, Python, BI Tools (Tableau, Metabase, Power BI), and data modeling
+💡 Domain experienced in fin-tech, risk management, logistics, and fraud prevention
+🔍 Passionate about solving business problems through unveiling insights from data
 
 ## 🔥 Featured Projects  
 - [Fraud Detection System](projects/fraud-detection.md)  
