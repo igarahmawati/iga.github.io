@@ -3,10 +3,12 @@ layout: default
 title: Projects
 ---
 
-# Projects
+# My Projects  
 
-## [Project 1: Fraud Detection System](projects/fraud-detection.md)
+## Fraud Detection System  
+[🔗 View Project](projects/fraud-detection.md)  
 Built a machine learning model to detect fraudulent transactions in fintech.
 
-## [Project 2: Customer Segmentation](projects/customer-segmentation.md)
-Analyzed transaction behavior to group customers for targeted marketing.
+## Customer Segmentation  
+[🔗 View Project](projects/customer-segmentation.md)  
+Analyzed customer transaction behavior to create targeted marketing strategies.
